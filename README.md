@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻Code Statistics
 
-<a href="https://github.com/superleeyom"><br/>  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thomas-lv&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" /><br/></a>
+<a href="https://github.com/thomas-lv"><br/>  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thomas-lv&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" /><br/></a>
 
 ## ☎️Contact Me
 
