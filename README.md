@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 [Thomas' Running](https://running-page-thomas-lv.vercel.app/)
 
-## 🎵My Gist
+## 📊Gist
 
 [Thomas' Gist](https://gist.github.com/Thomas-Lv/)
 
