@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [Thomas' Running](https://running-page-thomas-lv.vercel.app/)
 
 ## 🎵My Top Spotify Track
-<script src="https://gist.github.com/Thomas-Lv/4570d1f7af8c0bf0042eaacbbab81e77.js"></script>
+<img src="https://gist.github.com/Thomas-Lv/4570d1f7af8c0bf0042eaacbbab81e77.js"></img>
 
 ## 👨‍💻Code Statistics
 
