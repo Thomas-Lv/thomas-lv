@@ -8,12 +8,12 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 💬 You can discuss with me: music 🎵, sports🏃♂️, film📺, digital products📱
 - 📫 My Email：thomas_lv@126.com
-- 🏃 My Running record：https://running-page-thomas-lv.vercel.app
+- 🏃 My Running record：https://thomas-lv.github.io/running_page/
 - 🏠 My Blog：https://thomas-lv.github.io
 
 ## 🏃Running Record
 
-[Thomas' Running](https://running-page-thomas-lv.vercel.app/)
+[Thomas' Running](https://thomas-lv.github.io/running_page/)
 
 ## 📊Gist
 
